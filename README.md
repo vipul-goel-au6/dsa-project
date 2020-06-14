@@ -1,4 +1,4 @@
-====================================Bitcoin Price Notifier=============================================
+========================BitcoinPriceNotifier==========================
 
 ### Bitcoin Notifier
 
@@ -44,6 +44,7 @@ Bitcoin notifier have two IFTTT applets:
 
     Twitter: https://twitter.com/BitcoinNotifier
 
+    To choose destination run
     -------------------------------------------
     => -d (twitter or telegram)
     -------------------------------------------
